@@ -7,7 +7,11 @@
   "workers": 1,
   "routes": {
     "status": {
-      "path": "/_v/status/:code",
+      "path": "/_v/api/v1/davivienda-app/:code",
+      "public": true
+    },
+    "newApp": {
+      "path": "/_v/api/v1/davivienda-app/endpoint/:codigo",
       "public": true
     }
   }
