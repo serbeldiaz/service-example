@@ -1,6 +1,6 @@
 {
-  "name": "davivienda-app",
-  "vendor": "brandlivecoio",
+  "name": "services",
+  "vendor": "brandliveco",
   "version": "0.0.1",
   "title": "Service Example",
   "description": "Reference app for VTEX IO Services",
